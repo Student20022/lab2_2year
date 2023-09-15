@@ -1,0 +1,17 @@
+C:\Users\Dimon\source\repos\patternss\patternss\bin\Debug\net7.0-windows\patternss.exe
+C:\Users\Dimon\source\repos\patternss\patternss\bin\Debug\net7.0-windows\patternss.deps.json
+C:\Users\Dimon\source\repos\patternss\patternss\bin\Debug\net7.0-windows\patternss.runtimeconfig.json
+C:\Users\Dimon\source\repos\patternss\patternss\bin\Debug\net7.0-windows\patternss.dll
+C:\Users\Dimon\source\repos\patternss\patternss\bin\Debug\net7.0-windows\patternss.pdb
+C:\Users\Dimon\source\repos\patternss\patternss\obj\Debug\net7.0-windows\patternss.csproj.AssemblyReference.cache
+C:\Users\Dimon\source\repos\patternss\patternss\obj\Debug\net7.0-windows\patternss.Form1.resources
+C:\Users\Dimon\source\repos\patternss\patternss\obj\Debug\net7.0-windows\patternss.csproj.GenerateResource.cache
+C:\Users\Dimon\source\repos\patternss\patternss\obj\Debug\net7.0-windows\patternss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimon\source\repos\patternss\patternss\obj\Debug\net7.0-windows\patternss.AssemblyInfoInputs.cache
+C:\Users\Dimon\source\repos\patternss\patternss\obj\Debug\net7.0-windows\patternss.AssemblyInfo.cs
+C:\Users\Dimon\source\repos\patternss\patternss\obj\Debug\net7.0-windows\patternss.csproj.CoreCompileInputs.cache
+C:\Users\Dimon\source\repos\patternss\patternss\obj\Debug\net7.0-windows\patternss.dll
+C:\Users\Dimon\source\repos\patternss\patternss\obj\Debug\net7.0-windows\refint\patternss.dll
+C:\Users\Dimon\source\repos\patternss\patternss\obj\Debug\net7.0-windows\patternss.pdb
+C:\Users\Dimon\source\repos\patternss\patternss\obj\Debug\net7.0-windows\patternss.genruntimeconfig.cache
+C:\Users\Dimon\source\repos\patternss\patternss\obj\Debug\net7.0-windows\ref\patternss.dll
